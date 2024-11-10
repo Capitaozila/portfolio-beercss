@@ -1,4 +1,4 @@
-# Demonstração do BeerCSS para o ERCEMAPI 2024
+<!-- # Demonstração do BeerCSS para o ERCEMAPI 2024
 
 Este é um projeto de uma página feita nos moldes de um portfólio de desenvolvedor. Seu propósito é demonstrar como construir páginas bonitas, responsivas e interativas com o BeerCSS de maneira ágil. Será apresentado no ERCEMAPI 2024 no dia 12 de setembro durante o minicurso "Design Web Intuitivo: Potencializando Projetos com Material Design e BeerCSS".
 
@@ -102,4 +102,7 @@ Sinta-se à vontade para editar os arquivos dentro do diretório `src` para pers
 - **Parcel** - Bundler de aplicações web que facilita o processo de desenvolvimento, empacotamento e otimização de arquivos de código.
 ## Contribuições
 
-Contribuições são bem-vindas! Sinta-se à vontade para enviar um pull request ou abrir uma issue para sugerir melhorias.
+Contribuições são bem-vindas! Sinta-se à vontade para enviar um pull request ou abrir uma issue para sugerir melhorias. -->
+
+
+readme indisponível
