@@ -1,0 +1,14 @@
+{
+  "source":"./src/index.html",
+  "scripts": {
+    "dev":"vite",
+    "build":"vite build"
+  },
+  "dependencies": {
+    "beercss": "^3.7.12",
+    "material-dynamic-colors": "^1.1.2"
+  },
+  "devDependencies": {
+    "vite": "^5.4.10"
+  }
+}

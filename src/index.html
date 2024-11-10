@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/beercss@3.7.10/dist/cdn/beer.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles/style.css" />
+    <link rel="stylesheet" href="./styles/animations.css" />
+    <title>Portfólio com BeerCSS</title>
+  </head>
+
+  <body>
+    <header class="no-padding">
+      <nav class="center-align">
+        <div class="s">
+          <button data-ui="#menu" class="circle transparent">
+            <i>menu</i>
+            <menu id="menu" class="center-align no-wrap menu"></menu>
+          </button>
+        </div>
+        <div class="m l animation" id="nav-links"></div>
+        <button class="circle transparent" id="theme-toggle">
+          <i>dark_mode</i>
+        </button>
+      </nav>
+    </header>
+
+    <main class="responsive">
+      <h1 class="bold center-align">Luis Brasil</h1>
+      <span class="small-text">Svelte | React | Web Kit | Node.js | Swift</span>
+
+      <div class="grid">
+        <div class="s12 m8 large-text">
+        </div>
+        <div class="s12 m4 center-align">
+          <img
+            class="small-width small-height responsive round"
+            src="./images/perfil.png"
+            title="imagem de perfil"
+          />
+        </div>
+      </div>
+
+      <div class="large-space"></div>
+      <div class="row bottom-margin large-margin">
+        <div class="max center-align">
+          <h4 id="habilidades_sec">Habilidades</h4>
+        </div>
+      </div>
+
+      <div class="grid small-space center-align" id="habilidades"></div>
+
+      <div class="large-space"></div>
+      <div class="row bottom-margin large-margin">
+        <div class="max" id="projetos_sec">
+          <h4>Projetos</h4>
+        </div>
+      </div>
+
+      <div class="grid small-space" id="projetos"></div>
+    </main>
+
+    <footer class="grid no-space">
+      <div class="medium-space"></div>
+
+      <div class="small-space"></div>
+      <div class="s12 m12 l12">
+        <div class="row center-align">
+          <button>
+            <img class="responsive" src="./icons/github.png" />
+            <span>GitHub</span>
+          </button>
+        </div>
+      </div>
+      <div class="small-space"></div>
+    </footer>
+
+    <script type="module" src="./script/themeToggle.js"></script>
+    <script type="module" src="./script/navLinks.js"></script>
+    <script type="module" src="./script/mainContent.js"></script>
+  </body>
+</html>
