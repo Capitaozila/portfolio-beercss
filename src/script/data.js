@@ -57,4 +57,76 @@ export const projetos = [
     linkCode: "https://github.com/Capitaozila/JogoDaForca",
     linkDemo: "https://capitaozila.github.io/JogoDaForca/html/jogoforca.html",
   },
+  {
+    image:
+      "https://play-lh.googleusercontent.com/MKBkPr3ksv86Vs_QW4vAnXDOD609Rde6kOm4cvjMk3ubxvw8DAhuzt88j9dJZxVjig",
+    name: "Jogo da forca",
+    description:
+      "Um jogo da forca feito em Html, Css e Javascript. É possível jogar com palavras pré-definidas ou com palavras aleatórias. Possui responsividade. Aproveite!",
+    linkCode: "https://github.com/Capitaozila/JogoDaForca",
+    linkDemo: "https://capitaozila.github.io/JogoDaForca/html/jogoforca.html",
+  },
+  {
+    image:
+      "https://play-lh.googleusercontent.com/MKBkPr3ksv86Vs_QW4vAnXDOD609Rde6kOm4cvjMk3ubxvw8DAhuzt88j9dJZxVjig",
+    name: "Jogo da forca",
+    description:
+      "Um jogo da forca feito em Html, Css e Javascript. É possível jogar com palavras pré-definidas ou com palavras aleatórias. Possui responsividade. Aproveite!",
+    linkCode: "https://github.com/Capitaozila/JogoDaForca",
+    linkDemo: "https://capitaozila.github.io/JogoDaForca/html/jogoforca.html",
+  },
+  {
+    image:
+      "https://play-lh.googleusercontent.com/MKBkPr3ksv86Vs_QW4vAnXDOD609Rde6kOm4cvjMk3ubxvw8DAhuzt88j9dJZxVjig",
+    name: "Jogo da forca",
+    description:
+      "Um jogo da forca feito em Html, Css e Javascript. É possível jogar com palavras pré-definidas ou com palavras aleatórias. Possui responsividade. Aproveite!",
+    linkCode: "https://github.com/Capitaozila/JogoDaForca",
+    linkDemo: "https://capitaozila.github.io/JogoDaForca/html/jogoforca.html",
+  },
+  {
+    image:
+      "https://play-lh.googleusercontent.com/MKBkPr3ksv86Vs_QW4vAnXDOD609Rde6kOm4cvjMk3ubxvw8DAhuzt88j9dJZxVjig",
+    name: "Jogo da forca",
+    description:
+      "Um jogo da forca feito em Html, Css e Javascript. É possível jogar com palavras pré-definidas ou com palavras aleatórias. Possui responsividade. Aproveite!",
+    linkCode: "https://github.com/Capitaozila/JogoDaForca",
+    linkDemo: "https://capitaozila.github.io/JogoDaForca/html/jogoforca.html",
+  },
+  {
+    image:
+      "https://play-lh.googleusercontent.com/MKBkPr3ksv86Vs_QW4vAnXDOD609Rde6kOm4cvjMk3ubxvw8DAhuzt88j9dJZxVjig",
+    name: "Jogo da forca",
+    description:
+      "Um jogo da forca feito em Html, Css e Javascript. É possível jogar com palavras pré-definidas ou com palavras aleatórias. Possui responsividade. Aproveite!",
+    linkCode: "https://github.com/Capitaozila/JogoDaForca",
+    linkDemo: "https://capitaozila.github.io/JogoDaForca/html/jogoforca.html",
+  },
+  {
+    image:
+      "https://play-lh.googleusercontent.com/MKBkPr3ksv86Vs_QW4vAnXDOD609Rde6kOm4cvjMk3ubxvw8DAhuzt88j9dJZxVjig",
+    name: "Jogo da forca",
+    description:
+      "Um jogo da forca feito em Html, Css e Javascript. É possível jogar com palavras pré-definidas ou com palavras aleatórias. Possui responsividade. Aproveite!",
+    linkCode: "https://github.com/Capitaozila/JogoDaForca",
+    linkDemo: "https://capitaozila.github.io/JogoDaForca/html/jogoforca.html",
+  },
+  {
+    image:
+      "https://play-lh.googleusercontent.com/MKBkPr3ksv86Vs_QW4vAnXDOD609Rde6kOm4cvjMk3ubxvw8DAhuzt88j9dJZxVjig",
+    name: "Jogo da forca",
+    description:
+      "Um jogo da forca feito em Html, Css e Javascript. É possível jogar com palavras pré-definidas ou com palavras aleatórias. Possui responsividade. Aproveite!",
+    linkCode: "https://github.com/Capitaozila/JogoDaForca",
+    linkDemo: "https://capitaozila.github.io/JogoDaForca/html/jogoforca.html",
+  },
+  {
+    image:
+      "https://play-lh.googleusercontent.com/MKBkPr3ksv86Vs_QW4vAnXDOD609Rde6kOm4cvjMk3ubxvw8DAhuzt88j9dJZxVjig",
+    name: "Jogo da forca",
+    description:
+      "Um jogo da forca feito em Html, Css e Javascript. É possível jogar com palavras pré-definidas ou com palavras aleatórias. Possui responsividade. Aproveite!",
+    linkCode: "https://github.com/Capitaozila/JogoDaForca",
+    linkDemo: "https://capitaozila.github.io/JogoDaForca/html/jogoforca.html",
+  },
 ];

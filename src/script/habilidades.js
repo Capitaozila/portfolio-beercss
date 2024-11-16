@@ -11,6 +11,7 @@ export function renderHabilidades(containerId) {
     const icon = document.createElement("i");
     icon.classList.add("extra");
     const img = document.createElement("img");
+    img.alt = habilidade.name;
     img.src = habilidade.icon;
     icon.appendChild(img);
 
